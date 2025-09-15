@@ -1,16 +1,5 @@
 # 🛒 Customer Orders Data Cleaning  
 
-📑 **Table of Contents**  
-- [📌 Project Overview](#project-overview)  
-- [🛠️ Tools](#tools)  
-- [🧹 Data Cleaning / Preparation](#data-cleaning--preparation)  
-- [📊 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-- [🔎 Data Analysis](#data-analysis)  
-- [📈 Results](#results)  
-- [💡 Business Recommendations / Next Steps](#business-recommendations--next-steps)  
-- [⚠️ Limitations](#limitations)  
-
-
 ---
 
 ## 📌 Project Overview  
